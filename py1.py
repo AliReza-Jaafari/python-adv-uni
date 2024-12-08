@@ -38,9 +38,7 @@ class Fetcher:
             
          
                 
-            
-a = Fetcher()
-print(a.mean())
+    
      
         
                
